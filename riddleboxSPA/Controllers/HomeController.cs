@@ -3,11 +3,21 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using System.IO;
 
 namespace riddleboxSPA.Controllers
 {
     public class HomeController : Controller
     {
+        public String ImagePath
+        {
+            get
+            {
+                return "~/App_Data/blackpic.jpg";
+            }
+
+        }
+
         public ActionResult Index()
         {
             return View();
