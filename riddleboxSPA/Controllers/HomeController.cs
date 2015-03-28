@@ -13,6 +13,11 @@ namespace riddleboxSPA.Controllers
             return View();
         }
 
+        public ActionResult WebPlayer()
+        {
+            return View();
+        }
+
         public ActionResult About()
         {
             ViewBag.Message = "The product built by joint team during Garage 48 in Riga end of March 2015.";
