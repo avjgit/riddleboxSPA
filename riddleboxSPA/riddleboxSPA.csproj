@@ -219,6 +219,7 @@
     <Content Include="Content\Site.css" />
     <Content Include="Pictures\blackpic.jpg" />
     <Content Include="Pictures\blackpic1000.jpg" />
+    <Content Include="Pictures\btnPlay.png" />
     <Content Include="Pictures\title.png" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -237,7 +238,6 @@
     <Content Include="Scripts\respond.min.js" />
     <Content Include="Scripts\_references.js" />
     <Content Include="Static\RiglBox.html" />
-    <Content Include="Views\Home\blackpic.jpg" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
