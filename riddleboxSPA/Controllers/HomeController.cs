@@ -13,7 +13,7 @@ namespace riddleboxSPA.Controllers
         {
             get
             {
-                return "~/App_Data/blackpic.jpg";
+                return "~/Pictures/blackpic.jpg";
             }
 
         }
