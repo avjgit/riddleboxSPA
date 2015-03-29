@@ -237,7 +237,10 @@
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
     <Content Include="Scripts\_references.js" />
+    <Content Include="Static\jquery.min.js" />
     <Content Include="Static\RiglBox.html" />
+    <Content Include="Static\RiglBox2.html" />
+    <Content Include="Static\UnityObject2.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -275,6 +278,7 @@
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Static\RiglBox1.unity3d" />
     <Content Include="Static\RiglBox2.unity3d" />
+    <Content Include="Static\RiglBox3.unity3d" />
     <None Include="Views\Home\WebPlayer.cshtml" />
   </ItemGroup>
   <ItemGroup>
